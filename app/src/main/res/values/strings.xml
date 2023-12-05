@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab4</string>
+
+    <string name="public_holidays">Public holidays in US for the last year</string>
+    <string name="holiday_activity_title">Holiday details</string>
+
+    <string name="holiday_date">Date: %1$s</string>
+    <string name="holiday_local_name">Local name: %1$s</string>
+    <string name="holiday_name">Name: %1$s</string>
+    <string name="holiday_country_code">Country code: %1$s</string>
+    <string name="holiday_fixed">Fixed: %1$s</string>
+    <string name="holiday_global">Global: %1$s</string>
+    <string name="holiday_counties">Counties: %1$s</string>
+    <string name="holiday_launch_year">Launch year: %1$s</string>
+    <string name="holiday_types">Types: %1$s</string>
+</resources>
